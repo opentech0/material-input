@@ -5,11 +5,11 @@
 ## Installation
 
 ```bash
-yarn add @antipodes-medical/material-input
+yarn add @opentech0/material-input
 ```
 
 ```javascript
-import '@antipodes-medical/material-input';
+import '@opentech0/material-input';
 ```
 
 ## Utilisation

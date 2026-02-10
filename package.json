@@ -1,0 +1,27 @@
+{
+  "name": "@opentech0/material-input",
+  "version": "1.0.1",
+  "main": "src/material-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "./node_modules/.bin/eslint '**/*.js'",
+    "eslint:fix": "./node_modules/.bin/eslint '**/*.js' --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opentech0/material-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opentech0/material-input/issues"
+  },
+  "homepage": "https://github.com/opentech0/material-input#readme",
+  "description": "",
+  "dependencies": {
+    "@opentech0/js-helpers": "^1.0.0"
+  },
+  "devDependencies": {
+    "@opentech0/eslint-config-opentech": "^1.1.0"
+  }
+}
